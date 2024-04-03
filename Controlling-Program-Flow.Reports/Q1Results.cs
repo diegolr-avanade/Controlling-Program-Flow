@@ -9,7 +9,7 @@ namespace WiredBrainCoffeeSurveys.Reports
         // Aggregate ratings
         public static double ServiceScore { get; set; } = 8.0;
 
-        public static double CoffeeScore { get; set; } = 8.5;
+        public static double CoffeeScore { get; set; } = 4.0;
 
         public static double PriceScore { get; set; } = 6.0;
 
@@ -21,11 +21,14 @@ namespace WiredBrainCoffeeSurveys.Reports
 
         public static string LeastFavoriteProduct { get; set; } = "Granola";
 
+        public static string AreaToImprove { get; set; } = "MobileApp";
+
         // Aggregate counts
         public static double NumberSurveyed { get; set; } = 500;
 
         public static double NumberResponded { get; set; } = 325;
 
         public static double NumberRewardsMembers { get; set; } = 130;
+
     }
 }
