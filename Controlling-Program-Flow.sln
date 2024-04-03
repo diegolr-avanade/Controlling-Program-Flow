@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34714.143
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Controlling-Program-Flow.Reports", "Controlling-Program-Flow.Reports\Controlling-Program-Flow.Reports.csproj", "{76BD564A-A9EE-46DD-99A7-34ECA6E0E268}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControllingProgramFlow.Reports", "Controlling-Program-Flow.Reports\ControllingProgramFlow.Reports.csproj", "{76BD564A-A9EE-46DD-99A7-34ECA6E0E268}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

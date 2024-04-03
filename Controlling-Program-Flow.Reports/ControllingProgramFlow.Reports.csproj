@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{76BD564A-A9EE-46DD-99A7-34ECA6E0E268}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Controlling_Program_Flow.Reports</RootNamespace>
-    <AssemblyName>Controlling-Program-Flow.Reports</AssemblyName>
+    <RootNamespace>ControllingProgramFlow.Reports</RootNamespace>
+    <AssemblyName>ControllingProgramFlow.Reports</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -37,6 +37,7 @@
     <None Include="WiredBrainCoffeeSurveys.Reports.csproj" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="SurveyResponse.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Q1Results.cs" />
   </ItemGroup>
